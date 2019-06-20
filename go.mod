@@ -1,1 +1,1 @@
-module "test_gomod"
+module github.com/budiryan/test_gomod
